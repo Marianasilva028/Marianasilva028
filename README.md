@@ -1,7 +1,7 @@
 
 -😎estudando  cybersegurity❤️❤️
 
--💻 front-end
+-💻 BACK END
 
 -🎮progamação de jogos
 
